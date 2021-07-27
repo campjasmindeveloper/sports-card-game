@@ -1,0 +1,10 @@
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\bin\Debug\kartoyun.exe.config
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\bin\Debug\kartoyun.exe
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\bin\Debug\kartoyun.pdb
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.csprojAssemblyReference.cache
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.Form1.resources
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.Properties.Resources.resources
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.csproj.GenerateResource.cache
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.csproj.CoreCompileInputs.cache
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.exe
+C:\Users\Uğur\source\repos\prolab_odev\kartoyun\obj\Debug\kartoyun.pdb
